@@ -22,8 +22,8 @@ This can be used to do any operation to notify the user from the server.
 
 Screenshots
 ============
-![Screenshot1](Abhiseshan.github.com/repository/Screenshots/scr1.jpg)
-![Screenshot2](Abhiseshan.github.com/repository/Screenshots/scr2.jpg)
+![Screenshot1](Abhiseshan.github.com/JsonUpdater/Screenshots/scr1.png)
+![Screenshot2](Abhiseshan.github.com/JsonUpdater/Screenshots/scr2.png)
 
 Issues
 =======
