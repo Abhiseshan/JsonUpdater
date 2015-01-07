@@ -2,12 +2,14 @@ App update checker via Json
 ===========================
 
 Files Required
+
 1. AsyncTaskParseJson.java
 2. JsonParser.java
 3. MainActivity.java
 4. version_control.json
 
 Steps to use
+
 1. Place the AsyncTaskParseJson.java and JsonParser.java into your Android App library.
 2. Add the code from the MainActivity.java to the java file you want to use updater with.
 3. Upload the version_control.json onto your webaddress.
@@ -22,7 +24,10 @@ This can be used to do any operation to notify the user from the server.
 
 Screenshots
 ============
+When server_version is 1.0.0
 ![Screenshot1](https://github.com/Abhiseshan/JsonUpdater/blob/master/Screenshots/scr1.png)
+
+When server_version is 1.0.1
 ![Screenshot2](https://github.com/Abhiseshan/JsonUpdater/blob/master/Screenshots/scr2.png)
 
 Issues
